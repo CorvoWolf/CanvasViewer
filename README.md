@@ -2,8 +2,8 @@
 该脚本为Krita提供了一个实时画布预览面板，可以在独立窗口中查看当前画布的缩略图。<br>
 This script provides Krita with a real-time canvas preview panel that allows viewing thumbnails of the current canvas in a separate window. 
 
-只在win10和krita5.2.9测过，不保证没bug。<br>
-Only tested on Windows 10 and Krita 5.2.9; no guarantee of being bug-free.
+只在win10和krita5.2.9测过，不保证没bug，慎用。<br>
+Only tested on Windows 10 and Krita 5.2.9; no guarantee of being bug-free. Use with caution.
 
 <div align=center>
 <img src="https://github.com/CorvoWolf/CanvasViewer/blob/main/UI.jpg" width="483" height="303">
