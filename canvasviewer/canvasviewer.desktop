@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=canvasviewer
+X-Python-2-Compatible=false
+X-Krita-Manual=Manual.html
+Name=CanvasViewer
+Comment=画布实时预览面板 (Canvas Real-time Preview Panel)
